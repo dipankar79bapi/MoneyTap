@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Money Tap</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to Money Tap</string>
+    <string name="slide_1_desc">Yours problems are no more problems!!!</string>
+
+    <string name="slide_2_title">E-Money</string>
+    <string name="slide_2_desc">We are providing Loan from App</string>
+
+    <string name="slide_3_title">Take Loan</string>
+    <string name="slide_3_desc">we approved Loan up to 5 lakhs within 5 minutes</string>
+
+    <string name="slide_4_title">Enjoy</string>
+    <string name="slide_4_desc">Now you can solve your problems Happily !!!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
